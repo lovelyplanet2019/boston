@@ -1,0 +1,26 @@
+[
+    {
+    "page": "all",
+    "type": "area",
+    "location": "top",
+    "percent":  15
+    },
+    {
+    "page": "all",
+    "type": "area",
+    "location": "left",
+    "percent":  15
+    },
+    {
+    "page": "all",
+    "type": "area",
+    "location": "right",
+    "percent":  15
+    },
+    {
+    "page": "all",
+    "type": "area",
+    "location": "bottom",
+    "percent":  25
+    }
+]
